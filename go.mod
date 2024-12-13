@@ -1,4 +1,4 @@
-module github.com/vzx/ebitengine-newline
+module github.com/vzx/ebitengine-text-v2-newlines
 
 go 1.23.4
 
